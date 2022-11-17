@@ -1,0 +1,27 @@
+Afebrile:without a fever
+Apical Pulse:a pulse point located over the heart
+Apnea:no breathing
+Blood Pressure:the amount of force exerted by the blood against the walls of the artery
+Body Temperature:how much heat is in the body and balances the heat created by the body and heat lost to the environment
+Brachial Pulse:pulse points located in the crooks of the elbows typically used during blood pressure checks
+Bradycardia:a pulse rate less than 60 beats per minute
+Diarrhea:frequent passage of loose, watery stools (bowel movements)
+Dyspnea:painful or difficult breathing
+Exhale:when carbon dioxide is expelled out of the nose and the mouth from the lungs
+Fahrenheit:scale used to measure temperature, expressed in degrees
+Febrile:with a fever
+Fever:an elevated temperature
+Heart:the pump of the cardiovascular (circulatory) system consisting of four chambers
+Hypertension:high blood pressure
+Hyperventilation:rapid and deep breathing
+Hypotension:low blood pressure
+Inhale:when air (or oxygen) is pulled in through the nose and down into the lungs
+Lungs:elastic, spongy, cone-shaped air-filled structures involved and the location where the exchange of oxygen and carbon dioxide occur
+Millimeters of Mercury:the unit of measure for blood pressure
+Objective:information collected by the nurse aide's senses
+Pain:whatever the resident says that it is
+Pedal Pulse:pulse points located in the top of the feet and used to check circulation of the leg
+Pulse:is the beat of the heart felt at an artery, as a wave of blood passes through the artery; is the numbers of heart beats per minute
+Pulse Rate:the number of heart beats (or pulses) per minute
+Radial Pulse:pulse points located in the wrists, which is used most often, easy to reach easy to find, and used for routine vital signs
+Respiration:the process that supplies oxygen to the cells and removes carbon dioxide from cells
